@@ -63,9 +63,5 @@ app.get('/login', (req, res) =>{
     res.render('login');
 })
 
-app.get('/about', (req, res) =>{
-    res.render('about');
-})
-
 
 app.listen(3000, () => console.log('Listening 3000...'));
