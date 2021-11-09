@@ -1,5 +1,9 @@
 # TripHackr 
 
+A travel blog is a frequently updated online journal or diary where people around the global share their thoughts and feelings about the place they had visited. 
+
+Similarly, TripHackr is a platform used by travellers to share and receive travel experiences. Travellers get to know the best places to visit around the globe by the extensive communal experience shared here.
+
 1. Clone this repository.  
 2. Install dependencies.  
  $ npm install    
