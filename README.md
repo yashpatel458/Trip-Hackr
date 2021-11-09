@@ -13,3 +13,7 @@ Similarly, TripHackr is a platform used by travellers to share and receive trave
 - This project was built by using HTML5, CSS3, Bootstrap 4 for the front-end part.  
 - Node.js/ Express framework for the back-end API and MongoDB for the database were used.   
 - The database is in the MongoDB Atlas remote cloud and front-end deployment took place in Heroku environment.  
+
+![Screenshot 2021-11-07 at 5 41 43 PM](https://user-images.githubusercontent.com/68161473/140952288-2bee590c-506e-4c8a-8183-a8f047ba0fda.png)
+![Screenshot 2021-11-07 at 5 52 13 PM](https://user-images.githubusercontent.com/68161473/140952366-1c1a3d11-5d2f-4b74-8476-da30a56b169b.png)
+![Screenshot 2021-11-07 at 5 40 18 PM](https://user-images.githubusercontent.com/68161473/140952377-7f855fa5-2e64-4820-a2ad-2b94780bc21d.png)
