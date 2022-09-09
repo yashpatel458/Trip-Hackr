@@ -21,4 +21,6 @@ Similarly, TripHackr is a platform used by travellers to share and receive trave
 
 ![Screenshot 2021-11-07 at 5 52 13 PM](https://user-images.githubusercontent.com/68161473/140952366-1c1a3d11-5d2f-4b74-8476-da30a56b169b.png)
 
+<img width="1147" alt="Screen Shot 2022-09-09 at 4 46 00 PM" src="https://user-images.githubusercontent.com/68161473/189338152-9ed126f9-76e9-4b93-983f-582dde296aa7.png">
+
 ![Screenshot 2021-11-07 at 5 40 18 PM](https://user-images.githubusercontent.com/68161473/140952377-7f855fa5-2e64-4820-a2ad-2b94780bc21d.png)
