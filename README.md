@@ -2,7 +2,17 @@
 
 A travel blog is a frequently updated online journal or diary where people around the global share their thoughts and feelings about the place they had visited. 
 
+![Alt Text](https://media.tenor.com/vqO5lvzV0OsAAAAC/travel.gif)
+
 Similarly, TripHackr is a platform used by travellers to share and receive travel experiences. Travellers get to know the best places to visit around the globe by the extensive communal experience shared here.
+
+
+
+# Description
+
+- This project was built by using HTML5, CSS3, Bootstrap 4 for the front-end part.  
+- Node.js/ Express framework for the back-end API and MongoDB for the database were used.   
+- The database is in the MongoDB Atlas remote cloud and front-end deployment took place in Heroku environment.  
 
 1. Clone this repository.  
 2. Install dependencies.  
@@ -10,9 +20,7 @@ Similarly, TripHackr is a platform used by travellers to share and receive trave
 3. Start development server.  
  $ node app.js  
  
-- This project was built by using HTML5, CSS3, Bootstrap 4 for the front-end part.  
-- Node.js/ Express framework for the back-end API and MongoDB for the database were used.   
-- The database is in the MongoDB Atlas remote cloud and front-end deployment took place in Heroku environment.  
+# Screenshots
 
 ![Screenshot 2021-11-07 at 5 41 43 PM](https://user-images.githubusercontent.com/68161473/140952288-2bee590c-506e-4c8a-8183-a8f047ba0fda.png)
 
